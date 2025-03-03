@@ -1,0 +1,14 @@
+a{
+    color: #fff;
+   
+    text-decoration: none;
+}
+
+button a{
+    color: #FFF;
+    /* padding: 1rem ; */
+}
+button h3{
+    padding: 1rem 0rem;
+    text-align: center;
+}
